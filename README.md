@@ -1,7 +1,7 @@
 # Hi, I’m George 
 ## A Junior Python Developer from Bucharest, Romania
 ### Nice to meet you! 
-- 👀 I’m passionate about programming, AI and Machine Learning.  
+- 👀 I’m passionate about Programming, DevOps, and AI.  
 - 🌱 I’m currently polishing my Python skills.
 - 💞️ Open source lover and linux & cloud enthusiast.
 - ⚡ I enjoy working on projects and new challenges.
